@@ -1,3 +1,1 @@
 # del-test-pages01
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FVienna&src=M2IwZDRiNGIzMmRmOTcwODYwNWViYWY5YjNiNmIwNjFiYzk4ZDczYzJjYmYwZjA3Njc1Yjg3NWI3MTM1NjM0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ODQwMGE0YzM5M2RmOWE0MDFjYzI1YmE1MTc4NzVmOGIyMzZlMjJmODI2MWY0ODY1ZDFkNDI3NDVmZjI5Mzc5NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4uYXVzdHJpYW4jaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZmkuZmlubmlzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23C0CA33&color=%230B8043&color=%23EF6C00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
